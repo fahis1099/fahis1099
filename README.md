@@ -1,4 +1,4 @@
-# Hi, I'm Mohammed Faiz 👋
+# Hi, I'm Mohammed Fahis M 👋
 
 🎓 MCA student | Python Developer | Interested in Software Engineering, Machine Learning, and Problem Solving
 
