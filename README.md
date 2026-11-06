@@ -1,3 +1,5 @@
+![Mohammed Fahis — Python Developer](assets/profile-banner.png)
+
 # Mohammed Fahis M
 
 ### Python Developer | Aspiring Software Engineer
