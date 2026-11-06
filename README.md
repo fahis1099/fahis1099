@@ -66,6 +66,7 @@ A Java-based digital library application with book, member, and borrowing-relate
 
 I'm interested in Python development, software engineering opportunities, collaborative projects, and learning from the developer community.
 
+- **LinkedIn:** [mohammed-fahis](https://www.linkedin.com/in/mohammed-fahis/)
 - **GitHub:** [@fahis1099](https://github.com/fahis1099)
 - **LeetCode:** [fahis_m](https://leetcode.com/u/fahis_m/)
 - **HackerRank:** [fahis1099](https://www.hackerrank.com/profile/fahis1099/)
